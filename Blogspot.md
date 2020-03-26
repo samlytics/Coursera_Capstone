@@ -4,10 +4,7 @@
 
 ## Situating a New Shopping Mall in Lagos, Nigeria
 
- ![A Shopping mall in Lagos](link-to-image)
-
-
-
+ ![A Shopping mall in Lagos](https://github.com/samlytics/Coursera_Capstone/blob/master/Ikeja-city-mall-Alausa_Lagos.jpg)
 
 
 ### 1 Introduction:
